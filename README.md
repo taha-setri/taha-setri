@@ -12,14 +12,17 @@
   <img src="https://img.shields.io/badge/HOST-TERMUX%20SANDBOX%20LINUX-8a2be2?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
+---
+
 ## ⚡ // SYSTEM MANIFESTO & CORE IDENTITY
 
-```gdb
+
 [IDENTITY]      : Taha Setri // Digital Security Architect & AI Crafter
 [AFFILIATION]   : Sovereign Cyber Defense / Soverify Network
 [CORE_RULES]    : Zero Trust Policy // Encrypt Everything // Continuous Delivery
 [RUNTIME_ENV]   : Android Mobile Linux Sandbox (Termux CLI) & Cloud Instances
 [PRIMARY_STACK] : Python 3.x, JavaScript (ESNext), Bash, SQLite, AI APIs
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f59e0b&height=180&text=TAHA%20SETRI&fontSize=60&fontColor=000000&desc=CYBERSECURITY%20%26%20AI%20AUTOMATION%20ENGINEER&descSize=18&descAlignY=75" width="100%" />
 </p>
