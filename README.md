@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/HOST-TERMUX%20SANDBOX%20LINUX-8a2be2?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
----
-
 ## ⚡ // SYSTEM MANIFESTO & CORE IDENTITY
 
 ```gdb
