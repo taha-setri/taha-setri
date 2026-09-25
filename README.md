@@ -34,11 +34,6 @@
 ### 📊 // CYBER METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha-setri&show_icons=true&title_color=00f3ff&text_color=ffffff&bg_color=0d1117&border_color=ff0055&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-setri&layout=compact&title_color=00f3ff&text_color=ffffff&bg_color=0d1117&border_color=ff0055&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-setri&background=0d1117&border=00f3ff&currStreakNum=ff0055&fire=ff0055&sidering=00f3ff&sideyears=ffffff&stroke=00f3ff&textColor=ffffff" width="97%" />
 </p>
 
