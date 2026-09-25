@@ -33,8 +33,7 @@
 # LANGUAGES    : Python 3.x, JavaScript (ESNext, Web APIs), Shell/Bash, SQL
 # RUNTIMES     : Linux Environment, Android Termux Sandbox, Node.js Runtimes
 # STORAGE      : SQLite Embedded Relational Engine, Local Caching, ACID Integrity
-# INTELLIGENCE : Google Gemini API, Autonomous LLM Pipelines, Prompt Architecture
----
+# INTELLIGENCE : Google Gemini API, Autonomous LLM Pipelines, Prompt Architecture---
 
 <!-- ========================================== -->
 <!-- 03. AI ENGINEERING                         -->
