@@ -93,8 +93,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-setri&layout=compact&theme=dark&hide_border=false" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-setri&theme=dark&hide_border=false" width="97%" />
