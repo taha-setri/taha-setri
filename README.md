@@ -1,3 +1,19 @@
+<!-- 🐍 NEURAL MATRIX CONTRIBUTION SNAKE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,30,50,70&height=40" width="100%" />
+</p>
+
+<h3 align="center">⚙️ SYSTEM CONTRIBUTION GRAPH</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taha-setri/taha-setri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taha-setri/taha-setri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/taha-setri/taha-setri/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50,100&height=260&section=header&text=TAHA%20SETRI&fontSize=65&fontColor=ffffff&animation=twinkling&desc=%5B%20CYBERSECURITY%20OPERATOR%20%7C%20AI%20ARCHITECT%20%7C%20FULL-STACK%20%5D&descSize=20&descAlignY=70" width="100%" />
 </p>
