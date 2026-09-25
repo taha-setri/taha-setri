@@ -102,3 +102,28 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f59e0b&height=60&text=POWERED%20BY%20TAHA%20SETRI%20SYSTEMS&fontSize=20&fontColor=000000" width="100%" />
 </p>
+<!-- 🌐 NEURAL CONNECT & CONTACT MATRIX -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,30,50,70&height=40" width="100%" />
+</p>
+
+<h3 align="center">📡 SECURE COMMUNICATION CHANNELS</h3>
+
+<p align="center">
+  <a href="https://github.com/taha-setri">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@be_with_god_01">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/taha_setri">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<!-- 💬 TERMINAL QUOTE -->
+<p align="center">
+  <a href="https://github.com/taha-setri">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=500&height=35&lines=ELEVATING+SECURITY.+AUTOMATING+FUTURE.;ZERO+TRUST.+ALWAYS+VERIFY." alt="Terminal Quote" />
+  </a>
+</p>
