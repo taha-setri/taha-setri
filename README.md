@@ -24,8 +24,7 @@
 [PRIMARY_STACK] : Python 3.x, JavaScript (ESNext), Bash, SQLite, AI APIs
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f59e0b&height=180&text=TAHA%20SETRI&fontSize=60&fontColor=000000&desc=CYBERSECURITY%20%26%20AI%20AUTOMATION%20ENGINEER&descSize=18&descAlignY=75" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Identity-Full--Stack%20%26%20AI-red?style=for-the-badge" />
@@ -93,7 +92,7 @@
 ## 📊 Analytics & Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha-setri&show_icons=true&theme=dark&hide_border=false" width="48%" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-setri&layout=compact&theme=dark&hide_border=false" width="48%" />
 </p>
 
