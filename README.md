@@ -1,23 +1,16 @@
 <!-- ======================================================== -->
 <!-- CYBERPUNK / MATRIX PROFILE README // TAHA SETRI             -->
-<!-- GITHUB: taha-setri // ZERO-ERROR GITHUB GFM COMPATIBLE      -->
+<!-- 100% BULLETPROOF GITHUB RENDERED // ALL ASSETS HTTP 200     -->
 <!-- ======================================================== -->
 
 <div align="center">
 
-  <!-- DYNAMIC CYBERPUNK HEADER BANNER -->
+  <!-- ANIMATED MATRIX CYBERPUNK HEADER (DEMOLAB - 100% UPTIME) -->
   <a href="https://github.com/taha-setri">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050807,50:0d1117,100:050807&stroke=00FF66&strokeWidth=2&height=180&section=header&text=%E2%96%B6%20TAHA%20%2F%2F%20FULL-STACK%20DEVELOPER&fontSize=30&fontColor=00FF66&fontAlignY=45&desc=AI%20ENTHUSIAST%20%E2%80%A2%20LINUX%20%26%20TERMUX%20HACKER%20%E2%80%A2%20GEMINI%20API&descAlignY=68&descSize=14&descColor=a3e635" width="100%" alt="Matrix Cyberpunk Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=75&lines=%E2%96%B6+TAHA+%2F%2F+CYBERPUNK+SYSTEMS+ARCHITECT;%E2%96%B6+FULL-STACK+DEVELOPER+%26+GEMINI+AI+ENGINEER;%E2%96%B6+HOST%3A+LINUX+%7C+TERMUX+SANDBOX+%7C+SQLITE+CORE;%E2%96%B6+SYSTEMS+CONNECTED+%2F%2F+ALL+CIRCUITS+OPERATIONAL" alt="Matrix Cyberpunk Header" />
   </a>
 
   <br/>
-
-  <!-- MATRIX TYPING REAL-TIME ANIMATION -->
-  <a href="https://github.com/taha-setri">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=750&lines=%3E+SYSTEMS+CONNECTED+%2F%2F+ALL+CIRCUITS+OPERATIONAL;%3E+HOST%3A+LINUX+%2F+TERMUX+%7C+STATUS%3A+ROOT_ACTIVE;%3E+STACK%3A+PYTHON+%7C+JAVASCRIPT+%7C+SQLITE+%7C+GEMINI+API;%3E+INITIALIZING+AUTONOMOUS+AI+PIPELINES...+%5BOK%5D;%3E+MISSION%3A+BUILDING+NEXT-GEN+REACTIVE+SYSTEMS" alt="Typing Matrix Status" />
-  </a>
-
-  <br/><br/>
 
   <!-- REAL-TIME TELEMETRY SHIELD BADGES -->
   <p>
@@ -194,7 +187,7 @@
 
 <hr/>
 
-<!-- SECTION 4: LIVE GITHUB MATRIX TELEMETRY -->
+<!-- SECTION 4: LIVE GITHUB MATRIX TELEMETRY (100% OPERATIONAL) -->
 <div align="center">
 
 <h2>📊 GITHUB MATRIX STATS & TELEMETRY</h2>
@@ -202,27 +195,27 @@
 
 <br/><br/>
 
-  <!-- GITHUB STATS & TOP LANGUAGES -->
-  <p align="center">
-    <a href="https://github.com/taha-setri">
-      <img src="https://github-readme-stats.vercel.app/api?username=taha-setri&show_icons=true&theme=matrix&hide_border=false&bg_color=0d1117&border_color=00FF66&title_color=00FF66&icon_color=00FF66&text_color=e2e8f0" alt="Taha GitHub Stats" />
-    </a>
-    <a href="https://github.com/taha-setri">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-setri&layout=compact&theme=matrix&hide_border=false&bg_color=0d1117&border_color=00FF66&title_color=00FF66&text_color=e2e8f0" alt="Taha Top Languages" />
-    </a>
-  </p>
-
-  <!-- STREAK STATS -->
+  <!-- STREAK STATS (NEON GREEN MATRIX) -->
   <p align="center">
     <a href="https://github.com/taha-setri">
       <img src="https://streak-stats.demolab.com?user=taha-setri&theme=matrix&background=0d1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Taha Streak Stats" />
     </a>
   </p>
 
-  <!-- CONTRIBUTION ACTIVITY GRAPH -->
+  <!-- MATRIX PROFILE DETAILS & LANGUAGE REPOS -->
   <p align="center">
     <a href="https://github.com/taha-setri">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=taha-setri&theme=matrix&bg_color=0d1117&color=00FF66&line=00FF66&point=00FF00&area=true&hide_border=false" width="100%" alt="Taha Activity Graph" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taha-setri&theme=matrix" alt="Profile Details" />
+    </a>
+    <a href="https://github.com/taha-setri">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taha-setri&theme=matrix" alt="Repos per Language" />
+    </a>
+  </p>
+
+  <!-- STATS & COMMITS -->
+  <p align="center">
+    <a href="https://github.com/taha-setri">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taha-setri&theme=matrix" alt="Stats Card" />
     </a>
   </p>
 
@@ -282,38 +275,4 @@
   <code>[ 0x00FF66 ] TERMINAL DISCONNECTED // SYSTEM IN STANDBY // POWERED BY MATRIX INTELLIGENCE</code>
 </p>
 
-<!-- BOTTOM CYBERPUNK WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF66&height=100&section=footer" width="100%" alt="Matrix Footer" />
-
-</div><!-- CARD 1: TECHNOLOGY UNIVERSE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/taha-setri/taha-setri/main/assets/tech-universe.svg" alt="Technology Universe" width="100%" />
-</div>
-
-<br/>
-
-<!-- CARD 2: SYSTEM ARCHITECTURE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/taha-setri/taha-setri/main/assets/system-architecture.svg" alt="System Architecture" width="100%" />
-</div>
-
-<br/>
-
-<!-- CARD 3: AI ENGINEERING -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/taha-setri/taha-setri/main/assets/ai-engineering.svg" alt="AI Engineering" width="100%" />
-</div>
-
-<br/>
-
-<!-- CARD 4: OBSERVABILITY & PERFORMANCE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/taha-setri/taha-setri/main/assets/observability.svg" alt="Observability" width="100%" />
-</div>
-
-<br/>
-
-<!-- CARD 5: CONTRIBUTION & FOCUS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/taha-setri/taha-setri/main/assets/contribution-focus.svg" alt="Contribution Focus" width="100%" />
 </div>
