@@ -1,13 +1,14 @@
 <!-- ======================================================== -->
 <!-- CYBERPUNK / MATRIX PROFILE README // TAHA SETRI             -->
-<!-- 100% BULLETPROOF GITHUB RENDERED // ALL ASSETS HTTP 200     -->
+<!-- 100% MOBILE & DESKTOP OPTIMIZED // PURE MATRIX NEON GREEN   -->
+<!-- PALETTE: #0d1117 (VOID) // #00FF66 (NEON GREEN)             -->
 <!-- ======================================================== -->
 
 <div align="center">
 
-  <!-- ANIMATED MATRIX CYBERPUNK HEADER (DEMOLAB - 100% UPTIME) -->
+  <!-- RESPONSIVE ANIMATED MATRIX TYPING BANNER -->
   <a href="https://github.com/taha-setri">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=75&lines=%E2%96%B6+TAHA+%2F%2F+CYBERPUNK+SYSTEMS+ARCHITECT;%E2%96%B6+FULL-STACK+DEVELOPER+%26+GEMINI+AI+ENGINEER;%E2%96%B6+HOST%3A+LINUX+%7C+TERMUX+SANDBOX+%7C+SQLITE+CORE;%E2%96%B6+SYSTEMS+CONNECTED+%2F%2F+ALL+CIRCUITS+OPERATIONAL" alt="Matrix Cyberpunk Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=460&height=55&lines=%E2%96%B6+TAHA+%2F%2F+FULL-STACK+DEV+%26+AI;%E2%96%B6+SYSTEMS+CONNECTED+%2F%2F+ONLINE;%E2%96%B6+HOST%3A+LINUX+%7C+TERMUX+SANDBOX;%E2%96%B6+CORE%3A+PYTHON+%7C+JS+%7C+GEMINI+API" alt="Typing Matrix Header" />
   </a>
 
   <br/>
@@ -29,15 +30,15 @@
 
 <h3>⚡ <code>$ whoami --extended --matrix</code></h3>
 
-<pre><code>╔══════════════════════════════════════════════════════════════════════════════╗
-║  [+] IDENTITY   : Taha // Full-Stack Developer & AI Systems Engineer         ║
-║  [+] GITHUB     : @taha-setri (Grid Sector 07 // Cyberspace)                 ║
-║  [+] PHILOSOPHY : "Clean code builds fast engines. Automation scales them."  ║
-║  [+] RUNTIMES   : Linux x86_64, Android Termux Sandbox, Node.js, Python      ║
-║  [+] STORAGE    : SQLite Embedded Relational, Local Caching, Key-Value       ║
-║  [+] AI AGENTS  : Google Gemini API, Prompt Orchestration, Autonomous Bots  ║
-║  [+] PROTOCOL   : 0 CRITICAL ALERTS // CONTINUOUS DEPLOY // RE-EXECUTE       ║
-╚══════════════════════════════════════════════════════════════════════════════╝</code></pre>
+<pre><code>╔══════════════════════════════════════════════════════╗
+║ [+] IDENTITY   : Taha // Full-Stack & AI Systems     ║
+║ [+] GITHUB     : @taha-setri (Sector 07 // Matrix)   ║
+║ [+] PHILOSOPHY : "Fast code scales. Automation wins."║
+║ [+] RUNTIMES   : Linux, Android Termux, Node, Python ║
+║ [+] STORAGE    : SQLite Relational, Local Caching    ║
+║ [+] AI ENGINE  : Gemini API, Prompt Pipelines, Bots  ║
+║ [+] PROTOCOL   : 0 ERRORS // CONTINUOUS DEPLOY [OK]  ║
+╚══════════════════════════════════════════════════════╝</code></pre>
 
 </div>
 
@@ -54,9 +55,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="25%" align="left"><b>DOMAIN</b></th>
-      <th width="35%" align="left"><b>CORE TECHNOLOGIES</b></th>
-      <th width="40%" align="left"><b>SPECIFICATIONS & FOCUS</b></th>
+      <th width="30%" align="left"><b>DOMAIN</b></th>
+      <th width="35%" align="left"><b>CORE STACK</b></th>
+      <th width="35%" align="left"><b>FOCUS</b></th>
     </tr>
   </thead>
   <tbody>
@@ -66,7 +67,7 @@
         <img src="https://img.shields.io/badge/Python_3.x-0d1117?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF66" alt="JavaScript" />
       </td>
-      <td>High-speed asynchronous automation, RESTful APIs, task workers & CLI toolchains.</td>
+      <td>Async automation, REST APIs, CLI toolchains.</td>
     </tr>
     <tr>
       <td><b>🤖 AI & LLM AGENTS</b></td>
@@ -74,7 +75,7 @@
         <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=00FF66" alt="Gemini" />
         <img src="https://img.shields.io/badge/Prompt_Ops-0d1117?style=flat-square&logo=openai&logoColor=00FF66" alt="Prompt" />
       </td>
-      <td>Multimodal AI generation, structured JSON outputs, function calling & autonomous workflows.</td>
+      <td>Multimodal AI generation, structured outputs.</td>
     </tr>
     <tr>
       <td><b>🐧 OS & RUNTIME</b></td>
@@ -82,7 +83,7 @@
         <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF66" alt="Linux" />
         <img src="https://img.shields.io/badge/Termux-0d1117?style=flat-square&logo=android&logoColor=00FF66" alt="Termux" />
       </td>
-      <td>POSIX shell scripting, headless server operations, mobile terminal sandboxing & SSH tunneling.</td>
+      <td>POSIX shell, server ops, SSH tunneling.</td>
     </tr>
     <tr>
       <td><b>💾 DATABASE & STORAGE</b></td>
@@ -90,20 +91,21 @@
         <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=00FF66" alt="SQLite" />
         <img src="https://img.shields.io/badge/JSON_KV-0d1117?style=flat-square&logo=json&logoColor=00FF66" alt="JSON" />
       </td>
-      <td>Ultra-lightweight transactional storage, WAL mode high concurrency & zero-maintenance databases.</td>
+      <td>Transactional storage, WAL mode concurrency.</td>
     </tr>
     <tr>
       <td><b>⚙️ VCS & DEPLOYMENT</b></td>
       <td>
         <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FF66" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github&logoColor=00FF66" alt="Actions" />
+        <img src="https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=github&logoColor=00FF66" alt="Actions" />
       </td>
-      <td>Deterministic branch workflows, automated CI/CD pipelines & semantic versioning.</td>
+      <td>Branch workflows, CI/CD automated deployment.</td>
     </tr>
   </tbody>
 </table>
 
-</div><hr/>
+</div>
+<hr/>
 
 <!-- SECTION 2: SYSTEM ARCHITECTURE & AI ENGINEERING -->
 <div align="center">
@@ -116,31 +118,31 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ CLIENT & RUNTIME LAYER</h3>
+      <h3 align="center">⚡ CLIENT & RUNTIME</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/CLIENT-TERMINAL_%26_BROWSER-00FF66?style=for-the-badge&labelColor=0d1117&textColor=000000" alt="Client Layer" />
       </p>
       <ul>
         <li><b>Shell Interfaces:</b> Bash, Zsh, Termux command execution.</li>
-        <li><b>Reactive Frontend:</b> Real-time DOM, WebSockets, Event Streams.</li>
-        <li><b>State Synchronization:</b> Local persistence & low latency queries.</li>
+        <li><b>Reactive Frontend:</b> Real-time DOM, Event Streams.</li>
+        <li><b>State Sync:</b> Local persistence & low latency.</li>
       </ul>
       <p align="center">
-        <code>LATENCY: &lt;15ms // PROTOCOL: HTTP/3 &amp; SSE</code>
+        <code>LATENCY: &lt;15ms // PROTOCOL: HTTP/3</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛰️ INTELLIGENCE &amp; API CORE</h3>
+      <h3 align="center">🛰️ INTELLIGENCE & API</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/ENGINE-GEMINI_AI_CORE-00FF66?style=for-the-badge&labelColor=0d1117&textColor=000000" alt="AI Core" />
       </p>
       <ul>
-        <li><b>Gemini API:</b> Multimodal context processing & reasoning.</li>
-        <li><b>Tool Calling:</b> Live code execution and automated parsing.</li>
-        <li><b>Data Persistence:</b> ACID-compliant SQLite relational tables.</li>
+        <li><b>Gemini API:</b> Multimodal reasoning and context.</li>
+        <li><b>Tool Calling:</b> Live parsing & code execution.</li>
+        <li><b>Data Store:</b> ACID SQLite relational tables.</li>
       </ul>
       <p align="center">
-        <code>CONCURRENCY: ASYNCIO // SECURITY: HARDENED</code>
+        <code>CONCURRENCY: ASYNCIO // SECURITY: LEVEL ROOT</code>
       </p>
     </td>
   </tr>
@@ -162,23 +164,23 @@
   <tr>
     <td width="20%" align="center">
       <b>01 // CLARITY</b><br/>
-      <sub>Simple systems survive load. Complex abstractions hide latency.</sub>
+      <sub>Simple systems survive load.</sub>
     </td>
     <td width="20%" align="center">
       <b>02 // SCALABILITY</b><br/>
-      <sub>Modular architecture built for non-linear throughput growth.</sub>
+      <sub>Modular non-linear growth.</sub>
     </td>
     <td width="20%" align="center">
       <b>03 // SECURITY</b><br/>
-      <sub>Zero-trust execution, input sanitization & least-privilege access.</sub>
+      <sub>Zero-trust execution & access.</sub>
     </td>
     <td width="20%" align="center">
       <b>04 // PERFORMANCE</b><br/>
-      <sub>Sub-millisecond bottlenecks eliminated. Zero wasteful compute.</sub>
+      <sub>Sub-millisecond latency.</sub>
     </td>
     <td width="20%" align="center">
       <b>05 // AUTOMATION</b><br/>
-      <sub>Repetitive work automated via CI/CD, crons & AI worker routines.</sub>
+      <sub>AI worker crons & CI/CD.</sub>
     </td>
   </tr>
 </table>
@@ -187,7 +189,7 @@
 
 <hr/>
 
-<!-- SECTION 4: LIVE GITHUB MATRIX TELEMETRY (100% OPERATIONAL) -->
+<!-- SECTION 4: GITHUB MATRIX TELEMETRY (PURE 100% NEON GREEN MATRIX) -->
 <div align="center">
 
 <h2>📊 GITHUB MATRIX STATS & TELEMETRY</h2>
@@ -195,27 +197,24 @@
 
 <br/><br/>
 
-  <!-- STREAK STATS (NEON GREEN MATRIX) -->
+  <!-- MATRIX STREAK STATS (VERIFIED OPERATIONAL) -->
   <p align="center">
     <a href="https://github.com/taha-setri">
       <img src="https://streak-stats.demolab.com?user=taha-setri&theme=matrix&background=0d1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Taha Streak Stats" />
     </a>
   </p>
 
-  <!-- MATRIX PROFILE DETAILS & LANGUAGE REPOS -->
+  <!-- MATRIX STATS CARD (FAST MIRROR - PURE NEON GREEN & DARK BACKGROUND) -->
   <p align="center">
     <a href="https://github.com/taha-setri">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taha-setri&theme=matrix" alt="Profile Details" />
-    </a>
-    <a href="https://github.com/taha-setri">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taha-setri&theme=matrix" alt="Repos per Language" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=taha-setri&show_icons=true&bg_color=0d1117&border_color=00FF66&title_color=00FF66&icon_color=00FF66&text_color=e2e8f0" alt="Taha Stats" />
     </a>
   </p>
 
-  <!-- STATS & COMMITS -->
+  <!-- MATRIX TOP LANGUAGES CARD (FAST MIRROR - PURE NEON GREEN & DARK BACKGROUND) -->
   <p align="center">
     <a href="https://github.com/taha-setri">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taha-setri&theme=matrix" alt="Stats Card" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taha-setri&layout=compact&bg_color=0d1117&border_color=00FF66&title_color=00FF66&text_color=e2e8f0" alt="Taha Top Languages" />
     </a>
   </p>
 
